@@ -5,7 +5,7 @@ export default function Loading() {
   return (
     <View style={styles.container}>
       <ActivityIndicator size = "large" color ="white"/>
-      <Text style={styles.txt}>Loading for weather Data</Text>
+      <Text style={styles.txt}>Wating for weather Data</Text>
     </View>
   );
 }
