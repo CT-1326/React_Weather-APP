@@ -13,4 +13,4 @@ https://www.youtube.com/playlist?list=PL7jH19IHhOLPEhP6oPSgK6r-neUVVA-pi
 
 Thanks for great tutorial!
 # License
-This project is licensed under the Apache 2.0 License - see the [React_Weather-APP/LICENSE](LICENSE)
+This project is licensed under the MIT License - see the [React_Weather-APP/LICENSE](LICENSE)
