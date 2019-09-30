@@ -1,5 +1,5 @@
 # React_Weather-APP
-    First make React_ Native APP
+    First make React_Native APP of weather
 # Get Start
     > cd React_Weather-APP
     > npm install
