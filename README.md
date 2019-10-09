@@ -11,6 +11,6 @@
 # I learn to
 https://www.youtube.com/playlist?list=PL7jH19IHhOLPEhP6oPSgK6r-neUVVA-pi
 
-Thanks for great tutorial!
+<b>Thanks for great tutorial!</b>
 # License
 This project is licensed under the MIT License - see the [React_Weather-APP/LICENSE](LICENSE)
