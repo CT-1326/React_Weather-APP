@@ -1,5 +1,7 @@
 # React_Weather-APP
     First make React_Native APP of weather
+# Prerequisites
+    Node.js v10.16.3    
 # Get Start
     > cd React_Weather-APP
     > npm install
