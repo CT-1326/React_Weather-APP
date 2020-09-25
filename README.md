@@ -1,7 +1,9 @@
 # React_Weather-APP
     First make React_Native APP of weather
 # Prerequisites
-    Node.js v10.16.3    
+    Node.js v10.16.3
+    
+    Expo-cli v3.27.8
 # Get Start
     > cd React_Weather-APP
     > npm install
