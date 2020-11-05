@@ -3,7 +3,7 @@
 # Prerequisites
     Node.js v10.16.3
     
-    Expo-cli v3.27.8
+    Expo-cli V3.0.10
 # Get Start
     > cd React_Weather-APP
     > npm install
